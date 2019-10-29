@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Release\Perpustakaan.Anggota.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Release\Perpustakaan.Buku.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Release\Perpustakaan.Kembali.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Release\Perpustakaan.Pinjem.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Release\Perpustakaan.Form_Login.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Release\Perpustakaan.Form_Utama.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Release\Perpustakaan.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Perpustakaan\Perpustakaan\obj\x86\Release\Perpustakaan.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Perpustakaan\Perpustakaan\bin\Release\Perpustakaan.exe.config
